@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\vacu9\source\repos\Dodge_poop\Dodge_poop\Source.cpp(44,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\vacu9\source\repos\Dodge_poop\Dodge_poop\Source.cpp(96,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Dodge_poop.vcxproj -> C:\Users\vacu9\source\repos\Dodge_poop\x64\Debug\Dodge_poop.exe
