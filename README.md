@@ -7,7 +7,7 @@
 you have to dodge as much poop as possible. 
 
 ## Game rule
-* Dodging a piece of poop, you gain 1 point.
+* Dodging a piece of poop gives you 1 point.
 * Getting hit by a piece of poop makes you lose 100 points. 
 * When you lose all the points, you lose the game and your max score is shown. You can retry.
 * The longer you survive, the faster the poop falls and the more poop falls, that is, the game gets more difficult (But there's a difficulty limit)
