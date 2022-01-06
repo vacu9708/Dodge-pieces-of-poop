@@ -1,14 +1,21 @@
 # 💩 Dodge pieces of poop
 
-**Skills used** : C++, SMFL library
+## ⚒️Skills used
+* C++, SMFL library
 
-In this game you have to dodge as much poop as possible. 
+## 🥅Your goal in this game
+you have to dodge as much poop as possible. 
 
 ## Game rule
 * If you manage to dodge a piece of poop, you gain 1 point.
-* If you get hit by a piece of poop, you lose 90 points. 
-* When you lose all the points, you lose the game
+* If you get hit by a piece of poop, you lose 100 points. 
+* When you lose all the points, you lose the game and your max score is shown. You can retry.
+* The longer you survive, the faster the poop falls and the more poop falls, that is, the game gets more difficult (But there's a difficulty limit)
 
-<img src="https://user-images.githubusercontent.com/67142421/148427711-e7131cc8-335e-47d1-9059-24c2b68d4eff.jpg">
+## Control
+* Move : ⬅️ ➡️ ⬆️ ⬇️
+* Jump : spacebar
 
-📺 **Video** : https://youtu.be/i-QgXRV9lJA
+<img src="https://user-images.githubusercontent.com/67142421/148427711-e7131cc8-335e-47d1-9059-24c2b68d4eff.jpg" width="400" height="600">
+
+### 📺Video : https://youtu.be/eJcGGB4qZsU
