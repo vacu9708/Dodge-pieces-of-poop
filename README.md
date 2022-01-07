@@ -15,7 +15,7 @@ you have to dodge as much poop as possible.
 ## Control
 * Move : ⬅️ ➡️ ⬆️ ⬇️
 * Jump : spacebar
-
+---
 <img src="https://user-images.githubusercontent.com/67142421/148427711-e7131cc8-335e-47d1-9059-24c2b68d4eff.jpg" width="400" height="600">
 
 ### 📺Video : https://youtu.be/eJcGGB4qZsU
