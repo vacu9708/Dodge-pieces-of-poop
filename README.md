@@ -1,10 +1,10 @@
 # 💩 Dodge pieces of poop
 
 ## ⚒️Skills used
-* C++, SMFL library
+* C++, SMFL
 
 ## 🥅Your goal in this game
-you have to dodge as much poop as possible. 
+You have to dodge as much poop as possible. 
 
 ## Game rule
 * Dodging a piece of poop gives you 1 point.
