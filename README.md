@@ -1,8 +1,9 @@
 # 💩 Dodge pieces of poop
 
-### 📺Video : https://youtu.be/eJcGGB4qZsU
-</br>
+<img src="https://user-images.githubusercontent.com/67142421/148427711-e7131cc8-335e-47d1-9059-24c2b68d4eff.jpg" width="400" height="600">
 
+### 📺Video : https://youtu.be/eJcGGB4qZsU
+---
 ## ⚒️Skills used
 * C++, SMFL
 
@@ -18,5 +19,3 @@
 ## Control
 * Move : ⬅️ ➡️ ⬆️ ⬇️
 * Jump : spacebar
----
-<img src="https://user-images.githubusercontent.com/67142421/148427711-e7131cc8-335e-47d1-9059-24c2b68d4eff.jpg" width="400" height="600">
