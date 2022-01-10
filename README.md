@@ -1,10 +1,11 @@
 # 💩 Dodge pieces of poop
-This is my 1st C++ project. I tried to get used to Object-oriented programming in this project.
 
 <img src="https://user-images.githubusercontent.com/67142421/148427711-e7131cc8-335e-47d1-9059-24c2b68d4eff.jpg" width="400" height="600">
 
 ### 📺Video : https://youtu.be/eJcGGB4qZsU
 ---
+This is my 1st C++ project. I tried to get used to Object-oriented programming in this project.
+
 ## ⚒️Skills used
 * C++, SMFL
 
