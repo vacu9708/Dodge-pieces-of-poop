@@ -76,7 +76,7 @@ public:
 class Poop_set {
 	list<A_piece_of_poop> pieces_of_poop;
 public:
-	Poop_set(int how_many) {
+	Poop_set(short how_many) {
 		for (int i = 0; i < how_many; i++)
 			pieces_of_poop.push_back(A_piece_of_poop());
 	}
@@ -92,7 +92,7 @@ public:
 
 	void drop_poop(Sprite& player) {
 		list<A_piece_of_poop>::iterator i = pieces_of_poop.begin();
-		int falling_interval = 500;
+		short falling_interval = 500;
 		while (true) {
 			if (i->falling == false) {
 				i->poop_sprite.setPosition((int)random_real_number(0, 550), 50);
