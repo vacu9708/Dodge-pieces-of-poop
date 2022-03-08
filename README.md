@@ -21,3 +21,14 @@ This is my 1st C++ project. I tried to get used to Object-oriented programming i
 ## Control
 * Move : ⬅️ ➡️ ⬆️ ⬇️
 * Jump : spacebar
+
+## How to install SFML
+![image](https://user-images.githubusercontent.com/67142421/157268008-3759a285-8eee-4b61-aa4b-f3199827627e.png)<br>
+Install SFML and put it in Additional Include Directiories.
+
+![image](https://user-images.githubusercontent.com/67142421/157268262-a06aa90c-ee08-4e89-910d-06aa8963a6d6.png)
+
+![image](https://user-images.githubusercontent.com/67142421/157268320-2ad3391c-55b4-4a3c-9c4f-d86b7d7df44d.png)
+
+![image](https://user-images.githubusercontent.com/67142421/157268491-4fb4036a-388f-4330-8cf0-3b6b3fd0a9d8.png)<br>
+Set Additional Dependencies as above.
